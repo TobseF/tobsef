@@ -33,6 +33,7 @@
 [IGDB]: https://www.igdb.com/users/tobsef
 [Launchbox]: https://gamesdb.launchbox-app.com/collection/games/Topsee
 [BoardGameGeek]: https://boardgamegeek.com/collection/user/Topsee?gallery=large&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cstatus%7Cversion%7Crating%7Cbggrating%7Cplays%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame
+[Geocaching]: https://project-gc.com/ProfileStats/TobseF#Finds
 
 
 ### Connect with me
@@ -107,6 +108,9 @@ If you want to send me a smile and boost my work on the next side project, then 
 [<img alt="My Games" src="https://img.shields.io/badge/Steam_Games-2547-FA5C5C.svg?&style=for-the-badge&logo=SteamDB&logoColor=white"/>][SteamGames]
 [<img alt="Launchbox" src="https://img.shields.io/badge/Launchbox-28771-FA5C5C.svg?&style=for-the-badge&logo=CodeSandbox&logoColor=white"/>][Launchbox]
 [<img alt="BoardGameGeek" src="https://raw.githubusercontent.com/tobsef/tobsef/master/img/board-game-geek.svg"/>][BoardGameGeek]
+
+## 🧭 Outdoor
+[<img alt="Geocaching" src="https://img.shields.io/badge/Geocaching-345-00874D.svg?&style=for-the-badge&logo=Geocaching&logoColor=white"/>][Geocaching]
 
 ---
 <h1 align="center">🗂 Projects</h1>

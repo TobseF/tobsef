@@ -17,7 +17,7 @@
 [Xing]: https://www.xing.com/profile/Tobse_Fritz/cv
 [GitHub]: https://github.com/TobseF
 [Stackshare]: https://stackshare.io/TobseF
-[Stackoverflow]: https://stackoverflow.com/users/story/4198170?view=Timeline
+[Stackoverflow]: https://stackoverflow.com/users/4198170/tobse
 [email]: mailto:Public.Tobse@gmail.com
 [buy-me-a-donut]: https://www.buymeacoffee.com/tobse
 
@@ -49,12 +49,11 @@ If you want to send me a smile and boost my work on the next side project, then 
 [<img alt="Buy me a Donut" src="https://raw.githubusercontent.com/tobsef/tobsef/master/img/buy-me-a-donut.svg" />][buy-me-a-donut] (I don't like coffee 😉)
 
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-1A1B27.svg?&style=for-the-badge&logo=github&logoColor=white" />][GitHub]
-[<img alt="GitHub Repo Counter" src="https://badges.pufler.dev/repos/tobsef?style=for-the-badge&logo=Git&color=638FDA&logoColor=white"/>][Stackoverflow]
+[<img alt="GitHub Repo Counter" src="https://badges.pufler.dev/repos/tobsef?style=for-the-badge&logo=Git&color=638FDA&logoColor=white"/>][GitHub]
 [<img alt="GitHub Followers" src="https://img.shields.io/github/followers/tobsef.svg?style=for-the-badge&logo=GitHubSponsors&label=Follow&maxAge=2592000&color=E14BA5"/>][GitHub]   
 <img alt="Tobse's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=tobsef&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-[<img alt="Stackoverflow Deveoper Story" src="https://img.shields.io/badge/Developer_Story-F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />][Stackoverflow]  
-[<img  alt="Tobse at Stack Overflow" src="https://stackoverflow.com/users/flair/4198170.png?theme=dark"/>][Stackoverflow]  
+[<img alt="Stackoverflow" src="https://raw.githubusercontent.com/TobseF/stackoverflow-badge/master/stackoverflow-badge.svg" width="250"/>][Stackoverflow]  
 [<img alt="Public Slides" src="https://img.shields.io/badge/Public_Slides-8-E0667C.svg?&style=for-the-badge&logo=slides&logoColor=white" />][Slides]
 
 

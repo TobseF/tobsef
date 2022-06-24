@@ -121,9 +121,10 @@ If you want to send me a smile and boost my work on the next side project, then 
 
 ## 💿 Tools
 [![Impf Bot](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=impf-bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/impf-bot)
+[![StackOverflow Badge](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=stackoverflow-badge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/stackoverflow-badge)
 [![Clean Code Developer Journal](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=CleanCodeDeveloperJournal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/CleanCodeDeveloperJournal)
-[![eTicket App Mockup](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=eTicketAppMockup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/eTicketAppMockup)
 [![i18n Formatter Intellij Plugin](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=i18n-formatter-intellij-plugin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/i18n-formatter-intellij-plugin)
+[![eTicket App Mockup](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=eTicketAppMockup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/eTicketAppMockup)
 [![IntelliJ-Launcher](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=IntelliJ-Launcher-n&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/IntelliJ-Launcher-n)
 [![TopsyIcons](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=TopsyIcons&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/TopsyIcons)
 

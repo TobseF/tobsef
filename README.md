@@ -49,7 +49,7 @@ If you want to send me a smile and boost my work on the next side project, then 
 [<img alt="Buy me a Donut" src="https://raw.githubusercontent.com/tobsef/tobsef/master/img/buy-me-a-donut.svg" />][buy-me-a-donut] (I don't like coffee 😉)
 
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-1A1B27.svg?&style=for-the-badge&logo=github&logoColor=white" />][GitHub]
-[<img alt="GitHub Repo Counter" src="https://badges.pufler.dev/repos/tobsef?style=for-the-badge&logo=Git&color=638FDA&logoColor=white"/>][GitHub]
+[<img alt="GitHub Repo Counter" src="https://raw.githubusercontent.com/TobseF/github-badge/master/github-repo-count.svg"/>][GitHub]
 [<img alt="GitHub Followers" src="https://img.shields.io/github/followers/tobsef.svg?style=for-the-badge&logo=GitHubSponsors&label=Follow&maxAge=2592000&color=E14BA5"/>][GitHub]   
 <img alt="Tobse's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=tobsef&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -122,9 +122,10 @@ If you want to send me a smile and boost my work on the next side project, then 
 ## 💿 Tools
 [![Impf Bot](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=impf-bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/impf-bot)
 [![StackOverflow Badge](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=stackoverflow-badge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/stackoverflow-badge)
+[![GitHub Repo Counter](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=github-badge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/github-badge)
+[![eTicket App Mockup](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=eTicketAppMockup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/eTicketAppMockup)
 [![Clean Code Developer Journal](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=CleanCodeDeveloperJournal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/CleanCodeDeveloperJournal)
 [![i18n Formatter Intellij Plugin](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=i18n-formatter-intellij-plugin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/i18n-formatter-intellij-plugin)
-[![eTicket App Mockup](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=eTicketAppMockup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/eTicketAppMockup)
 [![IntelliJ-Launcher](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=IntelliJ-Launcher-n&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/IntelliJ-Launcher-n)
 [![TopsyIcons](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=TopsyIcons&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/TopsyIcons)
 

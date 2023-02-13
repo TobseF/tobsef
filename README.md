@@ -54,7 +54,7 @@ If you want to send me a smile and boost my work on the next side project, then 
 <img alt="Tobse's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=tobsef&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 [<img alt="Stackoverflow" src="https://raw.githubusercontent.com/TobseF/stackoverflow-badge/master/stackoverflow-badge.svg" width="250"/>][Stackoverflow]  
-[<img alt="Public Slides" src="https://img.shields.io/badge/Public_Slides-8-E0667C.svg?&style=for-the-badge&logo=slides&logoColor=white" />][Slides]
+[<img alt="Public Slides" src="https://img.shields.io/badge/Public_Slides-9-E0667C.svg?&style=for-the-badge&logo=slides&logoColor=white" />][Slides]
 
 
 ## 🛠 What I use
@@ -105,11 +105,11 @@ If you want to send me a smile and boost my work on the next side project, then 
 [<img alt="Itch.io" src="https://img.shields.io/badge/Itch.io-1-FA5C5C.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"/>][itch]
 [<img alt="IGDB" src="https://img.shields.io/badge/IGDB-7-FA5C5C.svg?&style=for-the-badge&logo=RxDB&logoColor=white"/>][IGDB]
 [<img alt="My Games" src="https://img.shields.io/badge/Steam_Games-2547-FA5C5C.svg?&style=for-the-badge&logo=SteamDB&logoColor=white"/>][SteamGames]
-[<img alt="Launchbox" src="https://img.shields.io/badge/Launchbox-28771-FA5C5C.svg?&style=for-the-badge&logo=CodeSandbox&logoColor=white"/>][Launchbox]
+[<img alt="Launchbox" src="https://img.shields.io/badge/Launchbox-28771-FA5C5C.svg?&style=for-the-badge&logo=Launchpad&logoColor=white"/>][Launchbox]
 [<img alt="BoardGameGeek" src="https://raw.githubusercontent.com/TobseF/board-game-geek-badge/master/board-game-geek-count.svg"/>][BoardGameGeek]
 
 ## 🧭 Outdoor
-[<img alt="Geocaching" src="https://img.shields.io/badge/Geocaching-345-00874D.svg?&style=for-the-badge&logo=Geocaching&logoColor=white"/>][Geocaching]
+[<img alt="Geocaching" src="https://img.shields.io/badge/Geocaching-349-00874D.svg?&style=for-the-badge&logo=Geocaching&logoColor=white"/>][Geocaching]
 
 ---
 <h1 align="center">🗂 Projects</h1>

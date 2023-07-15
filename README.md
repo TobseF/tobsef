@@ -54,7 +54,7 @@ If you want to send me a smile and boost my work on the next side project, then 
 <img alt="Tobse's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=tobsef&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 [<img alt="Stackoverflow" src="https://raw.githubusercontent.com/TobseF/stackoverflow-badge/master/stackoverflow-badge.svg" width="250"/>][Stackoverflow]  
-[<img alt="Public Slides" src="https://img.shields.io/badge/Public_Slides-9-E0667C.svg?&style=for-the-badge&logo=slides&logoColor=white" />][Slides]
+[<img alt="Public Slides" src="https://img.shields.io/badge/Public_Slides-12-E0667C.svg?&style=for-the-badge&logo=slides&logoColor=white" />][Slides]
 
 
 ## 🛠 What I use

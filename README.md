@@ -11,29 +11,61 @@
 > As corona limited a few outdoor hobbies, I also bought myself a 3D printer which I feed with plastic and construction plans.
 > But spare time is limited because I'm a proud father who can't wait to explain the world to his kid.
 
-
+[//]: # ( Connect with me )
 [Linkedin]: https://www.linkedin.com/in/tobse-fritz-76579b200/
 [Twitter]: https://twitter.com/TobseF
 [Xing]: https://www.xing.com/profile/Tobse_Fritz/cv
 [GitHub]: https://github.com/TobseF
+[Slides]: https://slides.com/tobsefritz/
 [Stackshare]: https://stackshare.io/TobseF
 [Stackoverflow]: https://stackoverflow.com/users/4198170/tobse
 [email]: mailto:Public.Tobse@gmail.com
 [buy-me-a-donut]: https://www.buymeacoffee.com/tobse
 
-[Thingiverse-Designs]: https://www.thingiverse.com/topsee/designs
-[Thingiverse-Makes]: https://www.thingiverse.com/topsee/makes
-[Slides]: https://slides.com/tobsefritz/
+[//]: # ( Photography / Design )
 [Unsplash]: https://unsplash.com/@tobsef/stats?stats=all-time
-[My-Mini-Factory]: https://www.myminifactory.com/de/users/tobsefritz
 [Deviantart]: https://www.deviantart.com/tobsef
 
+[//]: # ( 3D Printing )
+[Thingiverse-Designs]: https://www.thingiverse.com/topsee/designs
+[Thingiverse-Makes]: https://www.thingiverse.com/topsee/makes[]([]())
+[My-Mini-Factory]: https://www.myminifactory.com/de/users/tobsefritz
+
+[//]: # ( Gaming )
 [SteamGames]: http://games.tobse.eu
 [itch]: https://tobse.itch.io
 [IGDB]: https://www.igdb.com/users/tobsef
 [Launchbox]: https://gamesdb.launchbox-app.com/collection/games/Topsee
-[BoardGameGeek]: https://boardgamegeek.com/collection/user/Topsee?gallery=large&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cstatus%7Cversion%7Crating%7Cbggrating%7Cplays%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame
+[BoardGameGeek]: https://boardgamegeek.com/collection/user/Topsee?gallery=large&own=1
+
+[//]: # ( Outdoor )
 [Geocaching]: https://project-gc.com/ProfileStats/TobseF#Finds
+
+[//]: # ( What I use )
+[Kotlin]: https://kotlinlang.org
+[Java]: https://docs.oracle.com/en/java
+[TypeScript]: https://www.typescriptlang.org
+[Git]: https://git-scm.com
+[Docker]: https://www.docker.com
+[Spring]: https://spring.io
+[Spring_Boot]: https://spring.io/projects/spring-boot
+[Vaadin]: https://vaadin.com
+[MariaDB]: https://mariadb.org
+[Gradle]: https://gradle.org
+[Junit5]: https://junit.org/junit5
+[Vue]: https://vuejs.org
+[Vuetify]: https://vuetifyjs.com
+[Markdown]: https://www.markdownguide.org
+[Node]: https://nodejs.org
+[npm]: https://www.npmjs.com
+
+[//]: # ( Tools I Love )
+[Notion]: https://www.notion.so
+[Windows]: https://winxp.vercel.app
+[Vivaldi]: https://vivaldi.com
+[IntelliJIDEA]: https://www.jetbrains.com/idea/
+[Notepad++]: https://notepad-plus-plus.org
+[Slack]: https://slack.com
 
 
 ### Connect with me
@@ -50,8 +82,9 @@ If you want to send me a smile and boost my work on the next side project, then 
 
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-1A1B27.svg?&style=for-the-badge&logo=github&logoColor=white" />][GitHub]
 [<img alt="GitHub Repo Counter" src="https://raw.githubusercontent.com/TobseF/github-badge/master/github-repo-count.svg"/>][GitHub]
-[<img alt="GitHub Followers" src="https://img.shields.io/github/followers/tobsef.svg?style=for-the-badge&logo=GitHubSponsors&label=Follow&maxAge=2592000&color=E14BA5"/>][GitHub]   
-<img alt="Tobse's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=tobsef&show_icons=true&theme=tokyonight&hide_border=true"/>
+[<img alt="GitHub Followers" src="https://img.shields.io/github/followers/tobsef.svg?style=for-the-badge&logo=GitHubSponsors&label=Follow&maxAge=2592000&color=E14BA5"/>][GitHub]
+
+[<img alt="Tobse's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=tobsef&show_icons=true&theme=tokyonight&hide_border=true"/>][GitHub]
 
 [<img alt="Stackoverflow" src="https://raw.githubusercontent.com/TobseF/stackoverflow-badge/master/stackoverflow-badge.svg" width="250"/>][Stackoverflow]  
 [<img alt="Public Slides" src="https://img.shields.io/badge/Public_Slides-12-E0667C.svg?&style=for-the-badge&logo=slides&logoColor=white" />][Slides]
@@ -59,22 +92,22 @@ If you want to send me a smile and boost my work on the next side project, then 
 
 ## 🛠 What I use
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://raw.githubusercontent.com/tobsef/tobsef/master/img/java-badge.svg)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring_Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Vaadin](https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)][Kotlin]
+[![Java](https://raw.githubusercontent.com/tobsef/tobsef/master/img/java-badge.svg)][Java]
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)][TypeScript]
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)][Git]
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)][Docker]
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)][Spring]
+[![Spring_Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)][Spring_Boot]
+[![Vaadin](https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white)][Vaadin]
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)][MariaDB]
+[![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)][Gradle]
+[![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)][Junit5]
+[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)][Vue]
+[![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)][Vuetify]
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)][Markdown]
+[![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)][Node]
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)][npm]
 
 
 ### [<img alt="Stackshare" src="https://img.shields.io/badge/StackShare-0690FA.svg?&style=for-the-badge&logo=StackShare&logoColor=white"/>][Stackshare] 👈 Details
@@ -82,12 +115,12 @@ If you want to send me a smile and boost my work on the next side project, then 
 
 ## 🖤 Tools I Love
 
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
-![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)][Notion]
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)][Windows]
+[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)][Vivaldi]
+[![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)][IntelliJIDEA]
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)][Notepad++]
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)][Slack]
 
 
 ## 😎 Hobbies

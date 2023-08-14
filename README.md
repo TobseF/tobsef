@@ -172,7 +172,7 @@ If you want to send me a smile and boost my work on the next side project, then 
 [![MagicMaze Island](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=MagicMaze-Island&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/MagicMaze-Island)
 [![Exit Game Coding Challenge](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=exit-game-coding-challenge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/exit-game-coding-challenge)
 [![Hospital](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=Hospital&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/Hospital)
-[![XSwing Plus](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=XSwing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/XSwing)
+[![XSwing Plus](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=XSwing-Plus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/XSwing)
 [![ElkTest Game](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=ElkTest-Game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/ElkTest-Game)
 [![The Tree](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=the-tree&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/the-tree)
 
@@ -184,3 +184,4 @@ If you want to send me a smile and boost my work on the next side project, then 
 
 ---
 <p align="left"><img alt="Counter" src="https://komarev.com/ghpvc/?username=tobsef&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+![](https://hit.yhype.me/github/profile?user_id=1190109)

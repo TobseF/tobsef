@@ -135,7 +135,7 @@ If you want to send me a smile and boost my work on the next side project, then 
 [<img alt="My Mini Factory Makes" src="https://img.shields.io/badge/My_Mini_Factory-6-00c4a6.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNTYuNjcgMTU2LjY3Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6I2ZmZmZmZjt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkxheWVyXzIiIGRhdGEtbmFtZT0iTGF5ZXIgMiI+PGcgaWQ9IkxheWVyXzEtMiIgZGF0YS1uYW1lPSJMYXllciAxIj48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0xNTYuNjcsMS41N1YxNTUuMWExLjU3LDEuNTcsMCwwLDEtMS41NywxLjU3SDk0VjEyNS4zNGgzMS4zNFY0N0g5NFY5NEg2Mi42N1Y0N0gzMS4zM3Y3OC4zNEg2Mi42N3YzMS4zM0gzLjE0QTMuMTQsMy4xNCwwLDAsMSwwLDE1My41M1YxLjU3QTEuNTcsMS41NywwLDAsMSwxLjU3LDBIMTU1LjFBMS41NywxLjU3LDAsMCwxLDE1Ni42NywxLjU3WiIvPjwvZz48L2c+PC9zdmc+" />][My-Mini-Factory]
 
 ### 🎮 Gaming
-[<img alt="Itch.io" src="https://img.shields.io/badge/Itch.io-1-FA5C5C.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"/>][itch]
+[<img alt="Itch.io" src="https://img.shields.io/badge/Itch.io-2-FA5C5C.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"/>][itch]
 [<img alt="IGDB" src="https://img.shields.io/badge/IGDB-7-FA5C5C.svg?&style=for-the-badge&logo=RxDB&logoColor=white"/>][IGDB]
 [<img alt="My Games" src="https://img.shields.io/badge/Steam_Games-2547-FA5C5C.svg?&style=for-the-badge&logo=SteamDB&logoColor=white"/>][SteamGames]
 [<img alt="Launchbox" src="https://img.shields.io/badge/Launchbox-28771-FA5C5C.svg?&style=for-the-badge&logo=Launchpad&logoColor=white"/>][Launchbox]
@@ -184,4 +184,5 @@ If you want to send me a smile and boost my work on the next side project, then 
 
 ---
 <p align="left"><img alt="Counter" src="https://komarev.com/ghpvc/?username=tobsef&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
 ![](https://hit.yhype.me/github/profile?user_id=1190109)

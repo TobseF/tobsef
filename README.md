@@ -178,8 +178,9 @@ If you want to send me a smile and boost my work on the next side project, then 
 
 ## 🖌 Design
 [![TopsyIcons](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=TopsyIcons&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/TopsyIcons)
-[![Lück spare-part 3D model](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=lueck-spare-part-3d-model&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/lueck-spare-part-3d-model)
+[![Papirus-Icon-Theme-Windows](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=papirus-icon-theme-png-windows&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/papirus-icon-theme-png-windows)
 [![Microsoft Segoe UI Emoji SVGs Icons](https://github-readme-stats.vercel.app/api/pin/?username=notopsee&repo=Microsoft-Segoe-UI-Emoji-SVG-Icons&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons)
+[![Lück spare-part 3D model](https://github-readme-stats.vercel.app/api/pin/?username=tobsef&repo=lueck-spare-part-3d-model&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/lueck-spare-part-3d-model)
 
 
 ---

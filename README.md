@@ -36,7 +36,7 @@
 [itch]: https://tobse.itch.io
 [IGDB]: https://www.igdb.com/users/tobsef
 [Launchbox]: https://gamesdb.launchbox-app.com/collection/games/Topsee
-[BoardGameGeek]: https://boardgamegeek.com/collection/user/Topsee?gallery=large&own=1
+[BoardGameGeek]: https://boardgamegeek.com/collection/user/Topsee?geekranks=Board%20Game%20Rank&objecttype=thing&gallery=large&sort=bggrating&sortdir=desc&rankobjecttype=subtype&rankobjectid=1&columns=title&own=1&ff=1&subtype=boardgame
 
 [//]: # ( Outdoor )
 [Geocaching]: https://project-gc.com/ProfileStats/TobseF#Finds

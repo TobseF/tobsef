@@ -155,15 +155,15 @@ If you want to send me a smile and boost my work on the next side project, then 
 
 ## 💿 Tools
 [![Hard-Drive-Manager](https://github-asset.tobse.eu/Hard-Drive-Manager.svg)](https://github.com/TobseF/Hard-Drive-Manager)
-[![Impf Bot](https://github-asset.tobse.eu/impf-bot.svg)](https://github.com/TobseF/impf-bot)
+[![Clean Code Developer Journal](https://github-asset.tobse.eu/CleanCodeDeveloperJournal.svg)](https://github.com/TobseF/CleanCodeDeveloperJournal)
 [![My-PDF-Watermark](https://github-asset.tobse.eu/My-PDF-Watermark.svg)](https://github.com/TobseF/My-PDF-Watermark)
+[![Impf Bot](https://github-asset.tobse.eu/impf-bot.svg)](https://github.com/TobseF/impf-bot)
 [![StackOverflow Badge](https://github-asset.tobse.eu/stackoverflow-badge.svg)](https://github.com/TobseF/stackoverflow-badge)
 [![GitHub Repo Counter](https://github-asset.tobse.eu/github-badge.svg)](https://github.com/TobseF/github-badge)
-[![Clean Code Developer Journal](https://github-asset.tobse.eu/CleanCodeDeveloperJournal.svg)](https://github.com/TobseF/CleanCodeDeveloperJournal)
 [![i18n Formatter Intellij Plugin](https://github-asset.tobse.eu/i18n-formatter-intellij-plugin.svg)](https://github.com/TobseF/i18n-formatter-intellij-plugin)
+[![IntelliJ-Launcher](https://github-asset.tobse.eu/IntelliJ-Launcher-n.svg)](https://github.com/TobseF/IntelliJ-Launcher-n)
 [![eTicket App Mockup](https://github-asset.tobse.eu/eTicketAppMockup.svg)](https://github.com/TobseF/eTicketAppMockup)
 [![Phrase App PropSort](https://github-asset.tobse.eu/PhraseAppPropSort.svg)](https://github.com/TobseF/PhraseAppPropSort)
-[![IntelliJ-Launcher](https://github-asset.tobse.eu/IntelliJ-Launcher-n.svg)](https://github.com/TobseF/IntelliJ-Launcher-n)
 [![SR Grid - Power Grabber](https://github-asset.tobse.eu/grid-power-grabber.svg)](https://github.com/TobseF/grid-power-grabber)
 [![Emoji-Font-to-SVG-Extractor](https://github-asset.tobse.eu/Emoji-Font-to-SVG-Extractor.svg)](https://github.com/TobseF/Emoji-Font-to-SVG-Extractor)
 

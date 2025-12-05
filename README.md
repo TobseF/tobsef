@@ -180,7 +180,7 @@ If you want to send me a smile and boost my work on the next side project, then 
 ## 🖌 Design
 [![TopsyIcons](https://github-asset.tobse.eu/TopsyIcons.svg)](https://github.com/TobseF/TopsyIcons)
 [![Papirus-Icon-Theme-Windows](https://github-asset.tobse.eu/papirus-icon-theme-png-windows.svg)](https://github.com/TobseF/papirus-icon-theme-png-windows)
-[![Microsoft Segoe UI Emoji SVGs Icons](https://github-asset.tobse.eu/?username=notopsee&repo=Microsoft-Segoe-UI-Emoji-SVG-Icons.svg)](https://github.com/notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons)
+[![Microsoft Segoe UI Emoji SVGs Icons](https://github-asset.tobse.eu/Microsoft-Segoe-UI-Emoji-SVG-Icons.svg)](https://github.com/notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons)
 [![Lück spare-part 3D model](https://github-asset.tobse.eu/lueck-spare-part-3d-model.svg)](https://github.com/TobseF/lueck-spare-part-3d-model)
 
 

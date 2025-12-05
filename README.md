@@ -148,40 +148,40 @@ If you want to send me a smile and boost my work on the next side project, then 
 <h1 align="center">🗂 Projects</h1>
 
 ## 📋 Templates
-[![Boostnote Markdown CheatSheet](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=boostnote-markdown-cheatsheet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/boostnote-markdown-cheatsheet)
-[![HelloMaven](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=HelloMaven&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/HelloMaven)
-[![GitHub Plugin Registry Example](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=github-plugin-registry-example&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/github-plugin-registry-example)
-[![Master Mind TDD](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=MasterMindTDD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/MasterMindTDD)
+[![Boostnote Markdown CheatSheet](https://github-asset.tobse.eu/boostnote-markdown-cheatsheet.svg)](https://github.com/TobseF/boostnote-markdown-cheatsheet)
+[![HelloMaven](https://github-asset.tobse.eu/HelloMaven.svg)](https://github.com/TobseF/HelloMaven)
+[![GitHub Plugin Registry Example](https://github-asset.tobse.eu/github-plugin-registry-example.svg)](https://github.com/TobseF/github-plugin-registry-example)
+[![Master Mind TDD](https://github-asset.tobse.eu/MasterMindTDD.svg)](https://github.com/TobseF/MasterMindTDD)
 
 ## 💿 Tools
-[![Hard-Drive-Manager](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=Hard-Drive-Manager&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/Hard-Drive-Manager)
-[![Impf Bot](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=impf-bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/impf-bot)
-[![My-PDF-Watermark](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=My-PDF-Watermark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/My-PDF-Watermark)
-[![StackOverflow Badge](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=stackoverflow-badge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/stackoverflow-badge)
-[![GitHub Repo Counter](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=github-badge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/github-badge)
-[![Clean Code Developer Journal](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=CleanCodeDeveloperJournal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/CleanCodeDeveloperJournal)
-[![i18n Formatter Intellij Plugin](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=i18n-formatter-intellij-plugin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/i18n-formatter-intellij-plugin)
-[![eTicket App Mockup](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=eTicketAppMockup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/eTicketAppMockup)
-[![Phrase App PropSort](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=PhraseAppPropSort&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/PhraseAppPropSort)
-[![IntelliJ-Launcher](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=IntelliJ-Launcher-n&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/IntelliJ-Launcher-n)
-[![SR Grid - Power Grabber](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=grid-power-grabber&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/grid-power-grabber)
-[![Emoji-Font-to-SVG-Extractor](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=Emoji-Font-to-SVG-Extractor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/Emoji-Font-to-SVG-Extractor)
+[![Hard-Drive-Manager](https://github-asset.tobse.eu/Hard-Drive-Manager.svg)](https://github.com/TobseF/Hard-Drive-Manager)
+[![Impf Bot](https://github-asset.tobse.eu/impf-bot.svg)](https://github.com/TobseF/impf-bot)
+[![My-PDF-Watermark](https://github-asset.tobse.eu/My-PDF-Watermark.svg)](https://github.com/TobseF/My-PDF-Watermark)
+[![StackOverflow Badge](https://github-asset.tobse.eu/stackoverflow-badge.svg)](https://github.com/TobseF/stackoverflow-badge)
+[![GitHub Repo Counter](https://github-asset.tobse.eu/github-badge.svg)](https://github.com/TobseF/github-badge)
+[![Clean Code Developer Journal](https://github-asset.tobse.eu/CleanCodeDeveloperJournal.svg)](https://github.com/TobseF/CleanCodeDeveloperJournal)
+[![i18n Formatter Intellij Plugin](https://github-asset.tobse.eu/i18n-formatter-intellij-plugin.svg)](https://github.com/TobseF/i18n-formatter-intellij-plugin)
+[![eTicket App Mockup](https://github-asset.tobse.eu/eTicketAppMockup.svg)](https://github.com/TobseF/eTicketAppMockup)
+[![Phrase App PropSort](https://github-asset.tobse.eu/PhraseAppPropSort.svg)](https://github.com/TobseF/PhraseAppPropSort)
+[![IntelliJ-Launcher](https://github-asset.tobse.eu/IntelliJ-Launcher-n.svg)](https://github.com/TobseF/IntelliJ-Launcher-n)
+[![SR Grid - Power Grabber](https://github-asset.tobse.eu/grid-power-grabber.svg)](https://github.com/TobseF/grid-power-grabber)
+[![Emoji-Font-to-SVG-Extractor](https://github-asset.tobse.eu/Emoji-Font-to-SVG-Extractor.svg)](https://github.com/TobseF/Emoji-Font-to-SVG-Extractor)
 
 ## 🎮 Games
-[![Candy Crush Clone](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=Candy-Crush-Clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/Candy-Crush-Clone)
-[![Hit Klack](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=HitKlack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/HitKlack)
-[![MagicMaze Island](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=MagicMaze-Island&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/MagicMaze-Island)
-[![Exit Game Coding Challenge](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=exit-game-coding-challenge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/exit-game-coding-challenge)
-[![Hospital](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=Hospital&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/Hospital)
-[![XSwing Plus](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=XSwing-Plus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/XSwing)
-[![ElkTest Game](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=ElkTest-Game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/ElkTest-Game)
-[![The Tree](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=the-tree&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/the-tree)
+[![Candy Crush Clone](https://github-asset.tobse.eu/Candy-Crush-Clone.svg)](https://github.com/TobseF/Candy-Crush-Clone)
+[![Hit Klack](https://github-asset.tobse.eu/HitKlack.svg)](https://github.com/TobseF/HitKlack)
+[![MagicMaze Island](https://github-asset.tobse.eu/MagicMaze-Island.svg)](https://github.com/TobseF/MagicMaze-Island)
+[![Exit Game Coding Challenge](https://github-asset.tobse.eu/exit-game-coding-challenge.svg)](https://github.com/TobseF/exit-game-coding-challenge)
+[![Hospital](https://github-asset.tobse.eu/Hospital.svg)](https://github.com/TobseF/Hospital)
+[![XSwing Plus](https://github-asset.tobse.eu/XSwing-Plus.svg)](https://github.com/TobseF/XSwing)
+[![ElkTest Game](https://github-asset.tobse.eu/ElkTest-Game.svg)](https://github.com/TobseF/ElkTest-Game)
+[![The Tree](https://github-asset.tobse.eu/the-tree.svg)](https://github.com/TobseF/the-tree)
 
 ## 🖌 Design
-[![TopsyIcons](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=TopsyIcons&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/TopsyIcons)
-[![Papirus-Icon-Theme-Windows](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=papirus-icon-theme-png-windows&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/papirus-icon-theme-png-windows)
-[![Microsoft Segoe UI Emoji SVGs Icons](https://github-readme-stats.app.tobse.eu/pin/?username=notopsee&repo=Microsoft-Segoe-UI-Emoji-SVG-Icons&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons)
-[![Lück spare-part 3D model](https://github-readme-stats.app.tobse.eu/pin/?username=tobsef&repo=lueck-spare-part-3d-model&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TobseF/lueck-spare-part-3d-model)
+[![TopsyIcons](https://github-asset.tobse.eu/TopsyIcons.svg)](https://github.com/TobseF/TopsyIcons)
+[![Papirus-Icon-Theme-Windows](https://github-asset.tobse.eu/papirus-icon-theme-png-windows.svg)](https://github.com/TobseF/papirus-icon-theme-png-windows)
+[![Microsoft Segoe UI Emoji SVGs Icons](https://github-asset.tobse.eu/?username=notopsee&repo=Microsoft-Segoe-UI-Emoji-SVG-Icons.svg)](https://github.com/notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons)
+[![Lück spare-part 3D model](https://github-asset.tobse.eu/lueck-spare-part-3d-model.svg)](https://github.com/TobseF/lueck-spare-part-3d-model)
 
 
 ---

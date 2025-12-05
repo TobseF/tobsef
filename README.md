@@ -84,7 +84,7 @@ If you want to send me a smile and boost my work on the next side project, then 
 [<img alt="GitHub Repo Counter" src="https://raw.githubusercontent.com/TobseF/github-badge/master/github-repo-count.svg"/>][GitHub]
 [<img alt="GitHub Followers" src="https://img.shields.io/github/followers/tobsef.svg?style=for-the-badge&logo=GitHubSponsors&label=Follow&maxAge=2592000&color=E14BA5"/>][GitHub]
 
-[<img alt="Tobse's GitHub Stats" width="495px" src="https://github-readme-stats.app.tobse.eu/?username=tobsef&show_icons=true&theme=tokyonight&hide_border=true"/>][GitHub]
+[<img alt="Tobse's GitHub Stats" width="495px" src="https://github-asset.tobse.eu/tobse-stats.svg"/>][GitHub]
 
 [<img alt="Stackoverflow" src="https://raw.githubusercontent.com/TobseF/stackoverflow-badge/master/stackoverflow-badge.svg" width="250"/>][Stackoverflow]  
 [<img alt="Public Slides" src="https://img.shields.io/badge/Public_Slides-12-E0667C.svg?&style=for-the-badge&logo=slides&logoColor=white" />][Slides]
